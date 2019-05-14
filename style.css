@@ -1,0 +1,33 @@
+/*個人資料輸入表格*/
+form :nth-child(4) p {
+  display: inline;
+}
+
+/*結果呈現*/
+.my-photo {
+  float: right;
+  padding: 10px;
+  border-radius: 15px;
+  width: 200px;
+}
+
+.my-name {
+    text-transform: uppercase;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.my-introduce {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.dark_theme {
+  background-color: #000000c2;
+  color: floralwhite;
+}
+
+.light_theme {
+  background-color: floralwhite;
+  color: #000000c2;
+}
